@@ -8,11 +8,11 @@ Frauddetection_production-code
 1.Loading Data
 
 2.PIPE of
-—>missing value analysis
-—>outlier detection
-—>feature scaling
-—>feature extraction
-—>splitting data to TRAIN and TEST
+  -missing value analysis
+  -outlier detection
+  -feature scaling
+  -feature extraction
+  -splitting data to TRAIN and TEST
 
 3.Model building
 
